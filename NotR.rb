@@ -1,33 +1,3 @@
-##########################
-##########################
-
-#  Nihilist on the River
-
-##########################
-##########################
-
-#  Read me:
-
-#  This is a long-form music piece composed for sculpted computer-randomness.
-
-#  Because of the random nature, when you're listening now, there might be a lot going on,
-#  or maybe not much going on. But, it will change over time.
-#  The changes happen both on a large scale ("big now") and a short scale ("small now").
-
-#  There are several voices with unique characteristics that appear and dissapear over long time intervals.
-
-#  I invite you to spend 5 or 10 or 30 minutes listening to the evolution of what's happening
-#  in the "small now" but then come back in a few days to hear what has changed in the "big now."
-#  If you're lucky, you may get to revel in a moment of excitement or witness a fundamental shift.
-
-#  This piece started playing on November 14 and is intended to last until December 6
-#  Piece restarted on November 21 due to power outage
-#  Piece Restarted on November 27 due to power outage
-
-#  The windows over to the right can show us a bit more about how things are changing.
-#  The Log window shows individual note occurrences, the Cues window shows changes in
-#  voices and broader parameters.
-
 use_random_seed 1127
 big_now = 6000
 small_now = 600 #ten minutes
